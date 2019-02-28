@@ -1,0 +1,13 @@
+<!--- TEMPLATENAME: makak template.isml --->
+<html> 
+<head>
+
+</head>
+<body>
+ <isinclude template="" />
+   I am handsome
+ <isdecorate template="baboonstyle"> 
+  I am a boo boo booa baboon
+ </isdecorate>
+</body>
+</html>
